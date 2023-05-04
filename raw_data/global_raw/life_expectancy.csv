@@ -1,0 +1,1099 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,63.16,,,,,,63.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,63.21,,,,,,63.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.29,,,,,,63.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,61.04,,,,,,61.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.65,,,,,,61.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,62.35,,,,,,62.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.25,,,,,,76.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78,,,,,,78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.91,,,,,,79.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,76.1,,,,,,76.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.84,,,,,,77.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.69,,,,,,79.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.23,,,,,,76.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.13,,,,,,77.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.12,,,,,,78.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.65,,,,,,75.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.54,,,,,,76.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.5,,,,,,77.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.7,,,,,,60.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,63.06,,,,,,63.06,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.52,,,,,,65.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.13,,,,,,59.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.72,,,,,,61.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,64.5,,,,,,64.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.88,,,,,,74.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.45,,,,,,76.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.96,,,,,,77.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.43,,,,,,74.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.14,,,,,,76.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.76,,,,,,77.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.51,,,,,,73.51,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.58,,,,,,76.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.5,,,,,,79.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.92,,,,,,72.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.17,,,,,,76.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.3,,,,,,79.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.49,,,,,,72.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.03,,,,,,76.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.16,,,,,,79.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,70.88,,,,,,70.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.51,,,,,,74.51,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.83,,,,,,77.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,81.25,,,,,,81.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,83.04,,,,,,83.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.84,,,,,,84.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.41,,,,,,80.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.28,,,,,,82.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.17,,,,,,84.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.44,,,,,,79.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.65,,,,,,81.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.78,,,,,,83.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.6,,,,,,78.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.98,,,,,,80.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.29,,,,,,83.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.78,,,,,,68.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,71.43,,,,,,71.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.09,,,,,,74.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.94,,,,,,67.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.67,,,,,,70.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,73.43,,,,,,73.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.85,,,,,,69.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.21,,,,,,73.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,76.59,,,,,,76.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,69.73,,,,,,69.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.92,,,,,,72.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.08,,,,,,76.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,75.04,,,,,,75.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.81,,,,,,75.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.02,,,,,,77.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.87,,,,,,75.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.46,,,,,,76.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.27,,,,,,77.27,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.99,,,,,,72.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.25,,,,,,74.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.64,,,,,,75.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.5,,,,,,72.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.58,,,,,,73.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,74.79,,,,,,74.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.32,,,,,,74.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.03,,,,,,76.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.66,,,,,,77.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.01,,,,,,75.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.22,,,,,,76.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.36,,,,,,77.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.65,,,,,,69.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.81,,,,,,74.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.62,,,,,,79.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.56,,,,,,68.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.82,,,,,,73.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.79,,,,,,78.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.29,,,,,,79.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.42,,,,,,81.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.51,,,,,,83.51,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.48,,,,,,78.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.71,,,,,,80.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.86,,,,,,82.86,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.36,,,,,,71.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.41,,,,,,74.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.77,,,,,,77.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.14,,,,,,71.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.05,,,,,,74.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.29,,,,,,77.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,61.19,,,,,,61.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,63.43,,,,,,63.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.66,,,,,,65.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.66,,,,,,59.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.96,,,,,,61.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,64.25,,,,,,64.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.03,,,,,,72.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.11,,,,,,73.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.39,,,,,,74.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.05,,,,,,71.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.15,,,,,,72.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,73.45,,,,,,73.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.15,,,,,,71.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.14,,,,,,72.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,73.13,,,,,,73.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,70.59,,,,,,70.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.52,,,,,,71.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,72.45,,,,,,72.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.38,,,,,,74.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.75,,,,,,76.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.09,,,,,,79.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.94,,,,,,73.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.32,,,,,,76.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.65,,,,,,78.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,58.95,,,,,,58.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.25,,,,,,62.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.46,,,,,,65.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,57.83,,,,,,57.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,60.93,,,,,,60.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,63.93,,,,,,63.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.45,,,,,,72.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.9,,,,,,75.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.39,,,,,,79.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.67,,,,,,71.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.13,,,,,,75.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.64,,,,,,78.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.39,,,,,,73.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.32,,,,,,74.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.36,,,,,,75.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.38,,,,,,73.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.4,,,,,,74.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.5,,,,,,75.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.65,,,,,,71.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.07,,,,,,75.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.6,,,,,,78.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.17,,,,,,71.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.55,,,,,,74.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.04,,,,,,78.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.06,,,,,,60.06,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.7,,,,,,62.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.23,,,,,,65.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,58.24,,,,,,58.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,60.92,,,,,,60.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,63.45,,,,,,63.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,61.55,,,,,,61.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,63.84,,,,,,63.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,66.14,,,,,,66.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.84,,,,,,59.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,62.05,,,,,,62.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,64.26,,,,,,64.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.53,,,,,,60.53,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.92,,,,,,62.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.81,,,,,,65.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,57.98,,,,,,57.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,60.2,,,,,,60.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,62.96,,,,,,62.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.9,,,,,,69.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.03,,,,,,74.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.94,,,,,,77.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.18,,,,,,72.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.88,,,,,,74.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.59,,,,,,77.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,67.23,,,,,,67.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,70.12,,,,,,70.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,72.75,,,,,,72.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,66.2,,,,,,66.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,69.17,,,,,,69.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,71.89,,,,,,71.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.29,,,,,,60.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.36,,,,,,62.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,64.5,,,,,,64.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,57.29,,,,,,57.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,59.11,,,,,,59.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,60.99,,,,,,60.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.4,,,,,,80.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.24,,,,,,82.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.05,,,,,,84.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.88,,,,,,79.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.76,,,,,,81.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.58,,,,,,83.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,50.21,,,,,,50.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,53.1,,,,,,53.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,56.26,,,,,,56.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,48.19,,,,,,48.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,50.53,,,,,,50.53,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,53.03,,,,,,53.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,57.95,,,,,,57.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,59.63,,,,,,59.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,61.34,,,,,,61.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,56.22,,,,,,56.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,57.91,,,,,,57.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,59.63,,,,,,59.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.09,,,,,,78.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,80.74,,,,,,80.74,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.25,,,,,,83.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,76.98,,,,,,76.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,79.82,,,,,,79.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.51,,,,,,82.51,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.73,,,,,,74.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.43,,,,,,77.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.49,,,,,,80.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.85,,,,,,73.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.64,,,,,,76.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.87,,,,,,79.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.69,,,,,,76.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,79.31,,,,,,79.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.87,,,,,,81.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.63,,,,,,75.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,78.35,,,,,,78.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,81.01,,,,,,81.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,65.92,,,,,,65.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,67.39,,,,,,67.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.88,,,,,,68.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.07,,,,,,65.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,66.45,,,,,,66.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,67.84,,,,,,67.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.81,,,,,,63.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,64.74,,,,,,64.74,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.61,,,,,,65.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.56,,,,,,62.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,63.11,,,,,,63.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,63.59,,,,,,63.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.31,,,,,,78.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,80.85,,,,,,80.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.44,,,,,,83.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.16,,,,,,78.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.78,,,,,,80.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.47,,,,,,83.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,75.54,,,,,,75.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.64,,,,,,78.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.6,,,,,,81.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.3,,,,,,74.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.58,,,,,,77.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.73,,,,,,80.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,75.37,,,,,,75.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.76,,,,,,77.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.25,,,,,,80.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.7,,,,,,75.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.91,,,,,,77.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.19,,,,,,80.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,81.12,,,,,,81.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,83.14,,,,,,83.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,85.12,,,,,,85.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.89,,,,,,79.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.01,,,,,,82.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.12,,,,,,84.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czech Republic,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.3,,,,,,76.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czech Republic,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,79.13,,,,,,79.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czech Republic,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.93,,,,,,81.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czech Republic,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.57,,,,,,75.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czech Republic,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,78.46,,,,,,78.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czech Republic,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,81.3,,,,,,81.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,North Korea,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.29,,,,,,69.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,North Korea,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.63,,,,,,72.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,North Korea,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.69,,,,,,75.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,North Korea,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.42,,,,,,68.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,North Korea,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.76,,,,,,71.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,North Korea,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,74.78,,,,,,74.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of Congo,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60,,,,,,60,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of Congo,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.35,,,,,,62.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of Congo,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,64.82,,,,,,64.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of Congo,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,58.25,,,,,,58.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of Congo,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,60.44,,,,,,60.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of Congo,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,62.73,,,,,,62.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.59,,,,,,79.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.32,,,,,,81.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.02,,,,,,83.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.8,,,,,,78.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.59,,,,,,80.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.35,,,,,,82.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,64.1,,,,,,64.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.81,,,,,,65.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,67.78,,,,,,67.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.84,,,,,,62.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.64,,,,,,64.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,66.62,,,,,,66.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.76,,,,,,69.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.84,,,,,,72.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,76.19,,,,,,76.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.62,,,,,,68.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.75,,,,,,71.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.2,,,,,,75.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.41,,,,,,76.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.45,,,,,,78.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.5,,,,,,80.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.92,,,,,,74.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.18,,,,,,77.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.5,,,,,,79.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.59,,,,,,69.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,71.82,,,,,,71.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.14,,,,,,74.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.22,,,,,,68.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.49,,,,,,70.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,72.89,,,,,,72.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.58,,,,,,70.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.03,,,,,,75.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.13,,,,,,79.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.12,,,,,,68.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.25,,,,,,73.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.02,,,,,,78.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.87,,,,,,60.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.19,,,,,,62.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,63.58,,,,,,63.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.28,,,,,,60.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.13,,,,,,61.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,61.83,,,,,,61.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,61.3,,,,,,61.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,64.08,,,,,,64.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,67.07,,,,,,67.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.4,,,,,,59.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,62.29,,,,,,62.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,65.45,,,,,,65.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.7,,,,,,74.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.88,,,,,,78.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,82.6,,,,,,82.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.03,,,,,,73.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.6,,,,,,77.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,81.71,,,,,,81.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,53.36,,,,,,53.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,57.73,,,,,,57.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,63.18,,,,,,63.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,50.25,,,,,,50.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,54.05,,,,,,54.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,58.71,,,,,,58.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,66.9,,,,,,66.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,68.7,,,,,,68.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,70.52,,,,,,70.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.04,,,,,,65.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,66.82,,,,,,66.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,68.64,,,,,,68.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,65.93,,,,,,65.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,68.01,,,,,,68.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,70.28,,,,,,70.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.77,,,,,,65.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.83,,,,,,67.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,70.08,,,,,,70.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.16,,,,,,79.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.61,,,,,,81.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.04,,,,,,84.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.53,,,,,,78.53,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.21,,,,,,81.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.85,,,,,,83.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.76,,,,,,79.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.48,,,,,,82.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,85.09,,,,,,85.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.99,,,,,,78.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.91,,,,,,81.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.72,,,,,,84.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.59,,,,,,63.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,66.47,,,,,,66.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,69.73,,,,,,69.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.11,,,,,,62.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.93,,,,,,64.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,68.09,,,,,,68.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.42,,,,,,63.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.47,,,,,,65.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,67.65,,,,,,67.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.18,,,,,,62.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.14,,,,,,64.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,66.28,,,,,,66.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.79,,,,,,68.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.28,,,,,,73.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.76,,,,,,77.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.24,,,,,,68.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.58,,,,,,72.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.93,,,,,,76.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.72,,,,,,78.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.72,,,,,,81.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.77,,,,,,84.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.12,,,,,,78.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.42,,,,,,80.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.71,,,,,,82.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.66,,,,,,63.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,66.28,,,,,,66.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,69.16,,,,,,69.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,61.97,,,,,,61.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.55,,,,,,64.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,67.41,,,,,,67.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.64,,,,,,78.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.1,,,,,,81.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.57,,,,,,83.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,77.85,,,,,,77.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.38,,,,,,80.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.94,,,,,,82.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.63,,,,,,70.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.88,,,,,,72.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.33,,,,,,75.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,70.44,,,,,,70.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.7,,,,,,72.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.15,,,,,,75.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.95,,,,,,68.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.02,,,,,,72.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.04,,,,,,75.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.85,,,,,,67.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.95,,,,,,70.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,74.01,,,,,,74.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,59.48,,,,,,59.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,61.01,,,,,,61.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,62.25,,,,,,62.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,57.28,,,,,,57.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,58.81,,,,,,58.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,60.07,,,,,,60.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,57.36,,,,,,57.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,60.22,,,,,,60.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,62.98,,,,,,62.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,55.53,,,,,,55.53,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,58.23,,,,,,58.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,60.81,,,,,,60.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.45,,,,,,62.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.69,,,,,,65.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,69.39,,,,,,69.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.31,,,,,,62.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,65.59,,,,,,65.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,69.22,,,,,,69.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.34,,,,,,63.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,64.05,,,,,,64.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,64.76,,,,,,64.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.09,,,,,,62.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,62.61,,,,,,62.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,63.13,,,,,,63.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.67,,,,,,70.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,71.94,,,,,,71.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,73.16,,,,,,73.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.57,,,,,,67.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,69.82,,,,,,69.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,72.13,,,,,,72.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.09,,,,,,73.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.44,,,,,,76.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.59,,,,,,79.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.16,,,,,,72.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.57,,,,,,75.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.73,,,,,,78.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.81,,,,,,80.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.33,,,,,,82.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.87,,,,,,83.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.69,,,,,,80.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.14,,,,,,82.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.56,,,,,,83.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.52,,,,,,69.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,70.79,,,,,,70.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,72.17,,,,,,72.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.11,,,,,,68.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,69.31,,,,,,69.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,70.62,,,,,,70.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.4,,,,,,69.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,71.31,,,,,,71.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,73.3,,,,,,73.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.77,,,,,,68.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.61,,,,,,70.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,72.5,,,,,,72.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,75.69,,,,,,75.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.35,,,,,,77.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.09,,,,,,79.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.96,,,,,,74.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.66,,,,,,76.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.52,,,,,,78.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.93,,,,,,69.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.42,,,,,,72.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.97,,,,,,74.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.32,,,,,,67.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.29,,,,,,70.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,73.41,,,,,,73.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.2,,,,,,80.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.84,,,,,,81.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.48,,,,,,83.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.33,,,,,,79.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.14,,,,,,81.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.93,,,,,,82.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.79,,,,,,80.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.62,,,,,,82.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.36,,,,,,84.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.96,,,,,,79.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.93,,,,,,81.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.79,,,,,,83.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.91,,,,,,80.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.97,,,,,,82.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.9,,,,,,84.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80,,,,,,80,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.21,,,,,,82.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.26,,,,,,84.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.36,,,,,,74.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.98,,,,,,75.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.68,,,,,,77.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.1,,,,,,74.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.85,,,,,,75.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.71,,,,,,77.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,81.49,,,,,,81.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,84.26,,,,,,84.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,86.94,,,,,,86.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.7,,,,,,80.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,83.62,,,,,,83.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,86.41,,,,,,86.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,77.02,,,,,,77.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.87,,,,,,77.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.78,,,,,,78.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,76.95,,,,,,76.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.82,,,,,,77.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.77,,,,,,78.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.98,,,,,,69.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.95,,,,,,73.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.61,,,,,,77.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.43,,,,,,67.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.91,,,,,,71.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.22,,,,,,76.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.7,,,,,,63.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,66.09,,,,,,66.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.44,,,,,,68.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,61.71,,,,,,61.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.17,,,,,,64.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,66.62,,,,,,66.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,56.14,,,,,,56.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,59.42,,,,,,59.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,62.8,,,,,,62.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,55.13,,,,,,55.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,58.2,,,,,,58.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,61.37,,,,,,61.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.25,,,,,,79.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,80.97,,,,,,80.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.95,,,,,,83.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.46,,,,,,79.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.13,,,,,,81.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.84,,,,,,83.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.75,,,,,,70.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.18,,,,,,74.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.31,,,,,,77.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.92,,,,,,67.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.59,,,,,,71.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.28,,,,,,75.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Laos,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,66.19,,,,,,66.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Laos,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,68.51,,,,,,68.51,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Laos,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,70.95,,,,,,70.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Laos,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,64.7,,,,,,64.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Laos,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.08,,,,,,67.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Laos,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,69.56,,,,,,69.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.58,,,,,,70.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.38,,,,,,75.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.84,,,,,,79.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,69.93,,,,,,69.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.8,,,,,,74.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.29,,,,,,79.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.03,,,,,,74.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.44,,,,,,76.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.15,,,,,,79.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.47,,,,,,73.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.98,,,,,,75.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.82,,,,,,78.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,47.66,,,,,,47.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,50.75,,,,,,50.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,54.24,,,,,,54.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,45.07,,,,,,45.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,47.67,,,,,,47.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,50.58,,,,,,50.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.15,,,,,,63.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,64.08,,,,,,64.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65,,,,,,65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.65,,,,,,60.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.17,,,,,,61.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,61.68,,,,,,61.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.21,,,,,,74.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.78,,,,,,75.78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.34,,,,,,77.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.39,,,,,,72.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.6,,,,,,74.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.9,,,,,,76.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.23,,,,,,71.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.99,,,,,,75.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.43,,,,,,80.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,69.09,,,,,,69.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.38,,,,,,74.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.47,,,,,,79.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.62,,,,,,80.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.41,,,,,,82.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.2,,,,,,84.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.26,,,,,,80.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.31,,,,,,82.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.29,,,,,,84.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,64.1,,,,,,64.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.35,,,,,,65.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,66.6,,,,,,66.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.87,,,,,,62.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.19,,,,,,64.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,65.5,,,,,,65.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.31,,,,,,62.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.62,,,,,,65.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.93,,,,,,68.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.67,,,,,,59.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,63.04,,,,,,63.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,66.47,,,,,,66.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.61,,,,,,72.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.72,,,,,,74.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.08,,,,,,77.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.01,,,,,,73.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.95,,,,,,74.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.13,,,,,,77.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.63,,,,,,78.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,79.59,,,,,,79.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.76,,,,,,80.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,77.56,,,,,,77.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,78.41,,,,,,78.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.47,,,,,,79.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.2,,,,,,62.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.8,,,,,,62.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,63.4,,,,,,63.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.36,,,,,,60.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,60.89,,,,,,60.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,61.41,,,,,,61.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.94,,,,,,79.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.89,,,,,,81.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.8,,,,,,83.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.63,,,,,,79.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.65,,,,,,81.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.58,,,,,,83.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.08,,,,,,68.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,68.38,,,,,,68.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.73,,,,,,68.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.19,,,,,,67.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.41,,,,,,67.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,67.69,,,,,,67.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.95,,,,,,70.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.07,,,,,,74.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.32,,,,,,77.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,70.96,,,,,,70.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.14,,,,,,74.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.43,,,,,,77.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.13,,,,,,73.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.01,,,,,,76.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.86,,,,,,78.86,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.09,,,,,,73.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.87,,,,,,75.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.61,,,,,,78.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.35,,,,,,60.35,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,63.03,,,,,,63.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,66.05,,,,,,66.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.14,,,,,,60.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,62.74,,,,,,62.74,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,65.66,,,,,,65.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.82,,,,,,63.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,68.1,,,,,,68.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,72.76,,,,,,72.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,63.45,,,,,,63.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.61,,,,,,67.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,72.13,,,,,,72.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.15,,,,,,73.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.88,,,,,,75.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.65,,,,,,78.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.83,,,,,,72.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.27,,,,,,75.27,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.73,,,,,,77.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.68,,,,,,71.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.99,,,,,,72.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.31,,,,,,74.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.37,,,,,,71.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.46,,,,,,72.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,73.55,,,,,,73.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,54.46,,,,,,54.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,58.14,,,,,,58.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,61.73,,,,,,61.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,52.42,,,,,,52.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,55.95,,,,,,55.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,59.45,,,,,,59.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,65.91,,,,,,65.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,69.13,,,,,,69.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,72.2,,,,,,72.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,64.32,,,,,,64.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.58,,,,,,67.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,70.7,,,,,,70.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.58,,,,,,60.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,64.58,,,,,,64.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.45,,,,,,68.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.36,,,,,,59.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,62.87,,,,,,62.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,66.22,,,,,,66.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.88,,,,,,68.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,70.88,,,,,,70.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,72.75,,,,,,72.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.32,,,,,,67.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,69.43,,,,,,69.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,71.39,,,,,,71.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.4,,,,,,80.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.79,,,,,,81.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.15,,,,,,83.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.67,,,,,,79.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.28,,,,,,81.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.82,,,,,,82.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.36,,,,,,80.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.96,,,,,,81.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.52,,,,,,83.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.73,,,,,,79.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.31,,,,,,81.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.85,,,,,,82.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.07,,,,,,72.07,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.04,,,,,,75.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.93,,,,,,77.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.83,,,,,,71.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.62,,,,,,74.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.32,,,,,,77.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.06,,,,,,62.06,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,63.29,,,,,,63.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,64.56,,,,,,64.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.28,,,,,,60.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.54,,,,,,61.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,62.86,,,,,,62.86,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,61.2,,,,,,61.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.62,,,,,,62.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,64.1,,,,,,64.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.59,,,,,,59.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.16,,,,,,61.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,62.8,,,,,,62.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,81.08,,,,,,81.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.62,,,,,,82.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.13,,,,,,84.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.26,,,,,,80.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.01,,,,,,82.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.71,,,,,,83.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.97,,,,,,72.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.9,,,,,,73.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.26,,,,,,75.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.4,,,,,,71.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.52,,,,,,72.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,74.09,,,,,,74.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,64.59,,,,,,64.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.61,,,,,,65.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,66.72,,,,,,66.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,63.12,,,,,,63.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.18,,,,,,64.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,65.36,,,,,,65.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.65,,,,,,76.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,79.29,,,,,,79.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,82.06,,,,,,82.06,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,76.17,,,,,,76.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,78.72,,,,,,78.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,81.38,,,,,,81.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.4,,,,,,63.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.3,,,,,,65.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,67.36,,,,,,67.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.57,,,,,,62.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.49,,,,,,64.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,66.54,,,,,,66.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.08,,,,,,73.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.81,,,,,,75.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.85,,,,,,78.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.83,,,,,,72.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.56,,,,,,75.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.6,,,,,,78.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.46,,,,,,78.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,79.9,,,,,,79.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.34,,,,,,81.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,77.55,,,,,,77.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,79.08,,,,,,79.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.56,,,,,,80.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,67.4,,,,,,67.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,70.43,,,,,,70.43,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,73.6,,,,,,73.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.13,,,,,,67.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.3,,,,,,70.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,73.66,,,,,,73.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.53,,,,,,74.53,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.27,,,,,,78.27,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.93,,,,,,81.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.36,,,,,,73.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.29,,,,,,77.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,81.15,,,,,,81.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.56,,,,,,78.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.57,,,,,,81.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.4,,,,,,84.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,77.92,,,,,,77.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.89,,,,,,80.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.67,,,,,,83.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,76.63,,,,,,76.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.17,,,,,,77.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.03,,,,,,78.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.93,,,,,,75.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.41,,,,,,76.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,77.17,,,,,,77.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,South Korea,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.32,,,,,,80.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,South Korea,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,83.3,,,,,,83.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,South Korea,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,86.09,,,,,,86.09,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,South Korea,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.03,,,,,,79.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,South Korea,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.2,,,,,,82.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,South Korea,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,85.12,,,,,,85.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Moldova,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.26,,,,,,69.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Moldova,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.26,,,,,,73.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Moldova,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.12,,,,,,77.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Moldova,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.19,,,,,,67.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Moldova,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.13,,,,,,71.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Moldova,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.05,,,,,,75.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.95,,,,,,71.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.57,,,,,,75.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.26,,,,,,79.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.28,,,,,,71.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.82,,,,,,74.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.42,,,,,,78.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.18,,,,,,68.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.23,,,,,,73.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78,,,,,,78,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.85,,,,,,65.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.3,,,,,,71.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.6,,,,,,76.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,66.88,,,,,,66.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,69.1,,,,,,69.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,71.24,,,,,,71.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.47,,,,,,65.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.69,,,,,,67.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,69.82,,,,,,69.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.3,,,,,,71.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.33,,,,,,74.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.71,,,,,,77.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.82,,,,,,71.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.01,,,,,,75.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.52,,,,,,78.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.32,,,,,,71.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.22,,,,,,73.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.32,,,,,,75.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,70.3,,,,,,70.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.47,,,,,,72.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,74.91,,,,,,74.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.16,,,,,,69.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,70.45,,,,,,70.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,71.85,,,,,,71.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.68,,,,,,68.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,70.04,,,,,,70.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,71.49,,,,,,71.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.79,,,,,,68.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,70.42,,,,,,70.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,71.99,,,,,,71.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.05,,,,,,68.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,69.6,,,,,,69.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,71.12,,,,,,71.12,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.11,,,,,,73.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.31,,,,,,74.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,76.15,,,,,,76.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.73,,,,,,71.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.15,,,,,,73.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.25,,,,,,75.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,66.82,,,,,,66.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,68.58,,,,,,68.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,70.14,,,,,,70.14,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.46,,,,,,65.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.2,,,,,,67.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,68.77,,,,,,68.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.46,,,,,,73.46,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,75.87,,,,,,75.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.28,,,,,,78.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,72.69,,,,,,72.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.21,,,,,,75.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.76,,,,,,77.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.98,,,,,,69.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.34,,,,,,73.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.15,,,,,,77.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,69.95,,,,,,69.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.2,,,,,,73.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.83,,,,,,76.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,59.6,,,,,,59.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,60.77,,,,,,60.77,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,61.9,,,,,,61.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,55.9,,,,,,55.9,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,56.94,,,,,,56.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,57.93,,,,,,57.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,81.05,,,,,,81.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,83.22,,,,,,83.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,85.45,,,,,,85.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.72,,,,,,80.72,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.81,,,,,,82.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.89,,,,,,84.89,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.84,,,,,,74.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.23,,,,,,78.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.44,,,,,,81.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.48,,,,,,73.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.01,,,,,,77.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.37,,,,,,80.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,78.59,,,,,,78.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.31,,,,,,81.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,84.06,,,,,,84.06,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,77.57,,,,,,77.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.47,,,,,,80.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.32,,,,,,83.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.87,,,,,,62.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.25,,,,,,65.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,67.87,,,,,,67.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.34,,,,,,62.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.74,,,,,,64.74,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,67.41,,,,,,67.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,54.01,,,,,,54.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,56.47,,,,,,56.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,59.22,,,,,,59.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,52.17,,,,,,52.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,54.57,,,,,,54.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,57.31,,,,,,57.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.2,,,,,,62.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.25,,,,,,65.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.29,,,,,,68.29,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.82,,,,,,59.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,62.57,,,,,,62.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,65.34,,,,,,65.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,60.83,,,,,,60.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.79,,,,,,62.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,64.84,,,,,,64.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.8,,,,,,59.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.99,,,,,,61.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,64.3,,,,,,64.3,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.68,,,,,,80.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,83.22,,,,,,83.22,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,85.68,,,,,,85.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.66,,,,,,79.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.33,,,,,,82.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.94,,,,,,84.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.8,,,,,,73.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.87,,,,,,76.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.81,,,,,,79.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.05,,,,,,73.05,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.27,,,,,,76.27,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,79.41,,,,,,79.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,67.55,,,,,,67.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,69.15,,,,,,69.15,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,70.76,,,,,,70.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,66.19,,,,,,66.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.94,,,,,,67.94,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,69.71,,,,,,69.71,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68.5,,,,,,68.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,71.48,,,,,,71.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.63,,,,,,74.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,69.5,,,,,,69.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.6,,,,,,72.6,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.85,,,,,,75.85,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,80.83,,,,,,80.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,82.4,,,,,,82.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,83.97,,,,,,83.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,79.97,,,,,,79.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,81.75,,,,,,81.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,83.5,,,,,,83.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,81.75,,,,,,81.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,83.45,,,,,,83.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,85.08,,,,,,85.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,80.64,,,,,,80.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,82.61,,,,,,82.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,84.5,,,,,,84.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syria,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,71.18,,,,,,71.18,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syria,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.67,,,,,,72.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syria,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,74.26,,,,,,74.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syria,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.88,,,,,,60.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syria,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.4,,,,,,64.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syria,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,68.37,,,,,,68.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.44,,,,,,76.44,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.62,,,,,,78.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.67,,,,,,80.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,75.39,,,,,,75.39,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.79,,,,,,77.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.06,,,,,,80.06,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,67.58,,,,,,67.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,69.5,,,,,,69.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,71.55,,,,,,71.55,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,66.69,,,,,,66.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,68.66,,,,,,68.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,70.82,,,,,,70.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.36,,,,,,74.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.7,,,,,,77.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,81.04,,,,,,81.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.13,,,,,,74.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.41,,,,,,77.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.7,,,,,,80.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,North Macedonia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.84,,,,,,72.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,North Macedonia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,74.82,,,,,,74.82,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,North Macedonia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,76.87,,,,,,76.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,North Macedonia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.67,,,,,,71.67,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,North Macedonia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.73,,,,,,73.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,North Macedonia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.87,,,,,,75.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,67.93,,,,,,67.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,69.62,,,,,,69.62,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,71.41,,,,,,71.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.31,,,,,,67.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,68.87,,,,,,68.87,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,70.49,,,,,,70.49,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,61.52,,,,,,61.52,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,64.27,,,,,,64.27,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,67.23,,,,,,67.23,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,59.24,,,,,,59.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,61.92,,,,,,61.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,64.83,,,,,,64.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.81,,,,,,69.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,72.57,,,,,,72.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.61,,,,,,75.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,69.45,,,,,,69.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.33,,,,,,72.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,75.54,,,,,,75.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,72.54,,,,,,72.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.13,,,,,,76.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.92,,,,,,79.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,71.1,,,,,,71.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.61,,,,,,74.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.33,,,,,,78.33,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,74.88,,,,,,74.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.04,,,,,,77.04,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,79.19,,,,,,79.19,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.58,,,,,,74.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,76.7,,,,,,76.7,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.83,,,,,,78.83,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,66.48,,,,,,66.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,69.75,,,,,,69.75,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,72.97,,,,,,72.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.66,,,,,,65.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,69.11,,,,,,69.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,72.57,,,,,,72.57,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,63.24,,,,,,63.24,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,66.69,,,,,,66.69,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,70.1,,,,,,70.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,60.81,,,,,,60.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.47,,,,,,64.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,68.13,,,,,,68.13,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,68,,,,,,68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.02,,,,,,73.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,77.81,,,,,,77.81,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,67.21,,,,,,67.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,72.2,,,,,,72.2,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,76.96,,,,,,76.96,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,75.1,,,,,,75.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,76.08,,,,,,76.08,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.42,,,,,,78.42,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,74.25,,,,,,74.25,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,75.31,,,,,,75.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.84,,,,,,77.84,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,79.79,,,,,,79.79,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,81.4,,,,,,81.4,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,82.99,,,,,,82.99,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,78.93,,,,,,78.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,80.65,,,,,,80.65,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,82.34,,,,,,82.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,Tanzania,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,65.37,,,,,,65.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,Tanzania,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,67.34,,,,,,67.34,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,Tanzania,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,69.26,,,,,,69.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,Tanzania,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,63.38,,,,,,63.38,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,Tanzania,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,65.36,,,,,,65.36,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,Tanzania,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,67.26,,,,,,67.26,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,76.28,,,,,,76.28,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,78.5,,,,,,78.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.73,,,,,,80.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,76.31,,,,,,76.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,78.56,,,,,,78.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.8,,,,,,80.8,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,73.48,,,,,,73.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,77.1,,,,,,77.1,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,80.56,,,,,,80.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,73.31,,,,,,73.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,77.03,,,,,,77.03,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,80.56,,,,,,80.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,70.76,,,,,,70.76,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.01,,,,,,73.01,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,75.21,,,,,,75.21,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.98,,,,,,68.98,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,71.45,,,,,,71.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,73.92,,,,,,73.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,62.66,,,,,,62.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,65.31,,,,,,65.31,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.32,,,,,,68.32,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,62.02,,,,,,62.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,64.64,,,,,,64.64,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,67.68,,,,,,67.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.91,,,,,,69.91,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.95,,,,,,73.95,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.17,,,,,,78.17,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,70.59,,,,,,70.59,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,74.66,,,,,,74.66,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,78.97,,,,,,78.97,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Vietnam,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,69.56,,,,,,69.56,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Vietnam,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,73.74,,,,,,73.74,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Vietnam,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,78.11,,,,,,78.11,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Vietnam,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,68.88,,,,,,68.88,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Vietnam,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,73.16,,,,,,73.16,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Vietnam,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,77.61,,,,,,77.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,64.41,,,,,,64.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,66.63,,,,,,66.63,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,68.92,,,,,,68.92,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,65.41,,,,,,65.41,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,67.47,,,,,,67.47,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,69.58,,,,,,69.58,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,59.54,,,,,,59.54,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,62.45,,,,,,62.45,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,65.37,,,,,,65.37,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,57.93,,,,,,57.93,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,60.5,,,,,,60.5,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,63.02,,,,,,63.02,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,TRUE,Sex,Male,MLE,,,,,,,,,,57.51,,,,,,57.51,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,TRUE,Sex,Both sexes,BTSX,,,,,,,,,,60.68,,,,,,60.68,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,TRUE,Sex,Female,FMLE,,,,,,,,,,63.61,,,,,,63.61,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,FALSE,Sex,Male,MLE,,,,,,,,,,55.73,,,,,,55.73,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,FALSE,Sex,Both sexes,BTSX,,,,,,,,,,58.48,,,,,,58.48,,,EN,2020-12-04T08:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,FALSE,Sex,Female,FMLE,,,,,,,,,,60.96,,,,,,60.96,,,EN,2020-12-04T08:00:00.000Z
